@@ -5,6 +5,7 @@ You need to develop a program that simulates the reception and processing of req
  - the program should automatically generate new requests (identified by a unique number or other data)
  - add them to a queue
  - remove them from the queue for 'processing'
+
 thus simulating the operation of a service center.
 
 ### Task 2: Deque
